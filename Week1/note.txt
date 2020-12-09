@@ -1,0 +1,8 @@
+to compile C files 
+use GCC filename -o outputname
+
+
+_____________
+
+source code
+https://cdn.cs50.net/2019/fall/lectures/1/src1/
